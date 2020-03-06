@@ -5,8 +5,6 @@ tags: [Python, Copy]
 comments: true
 ---
 
-# Python中的浅拷贝与深拷贝
-
 *声明：本文章中的内存分析图仅作示意图使用，真实的内存状态与此有差别*
 
 ## 列表（list）中
