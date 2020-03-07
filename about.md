@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### 学习经历
 
-### More Information
+**本科**
+2016.09-2017.06：西南交通大学，机械设计制造及其自动化
+2017.09-2020.06：西南交通大学，电子信息工程
 
-A place to include any other types of information that you'd like to include about yourself.
+**硕士**
+电子科技大学，信息与通信工程
+方向：信号与智能信息处理
 
-### Contact me
+### 联系方式
 
-[email@domain.com](mailto:email@domain.com)
+[renxin714@outlook.com](renxin714@outlook.com)
