@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Python中的浅拷贝与深拷贝"
-tags: [Python, Copy]
+tags: [Python]
 comments: true
 ---
 
