@@ -1,4 +1,10 @@
-# cJSON源码阅读笔记
+---
+layout: post
+title: "cJSON源码阅读笔记"
+tags: [C++, 源码阅读]
+comments: true
+---
+
 
 cJSON源码下载地址：<https://sourceforge.net/projects/cjson>
 
