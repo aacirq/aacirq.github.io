@@ -5,6 +5,19 @@ tags: [算法]
 comments: true
 ---
 
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
+
 这篇博客的重点是说明**方法2**，并证明其可行性。
 
 题目：给一个链表，若其中包含环，请找出该链表的环的入口结点，否则，输出null。
